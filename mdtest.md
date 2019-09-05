@@ -53,6 +53,13 @@ Inline-style:
 Reference-style:
 ![alt text][logo]
 
+Inline-style for other place:
+![alt text](images/github.png "Github logo")
+
+
+
+
+
 [logo]: github.png "Github logo new"
 
 
