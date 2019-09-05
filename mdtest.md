@@ -57,7 +57,7 @@ Reference-style:
 
 
 # Tables
-======
+------
 
 | Tables | Are | Cool |
 |--------|:-----:|-----|
