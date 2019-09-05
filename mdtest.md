@@ -45,6 +45,18 @@ int main()
 
 This site was built using [Github Pages](https://pages.github.com).
 
+Here's our log (hover to see the title text):
+
+Inline-style:
+![alt text](github.png "Github logo")
+
+Reference-style:
+![alt text][logo]
+
+[logo]: github.png "Github logo new"
+
+
+
 
 
       
