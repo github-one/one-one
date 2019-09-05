@@ -3,7 +3,9 @@
 ##### The smallest heading
 
 **Bold**
+
 __Bold__
+
 **This is bold test**
 
 *This text is italicized*
